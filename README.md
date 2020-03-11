@@ -3,5 +3,5 @@
 ## How to use
 
 ``` sh
-$ node ./index
+$ npx https://github.com/matt-ewan-laws/namer.git
 ```
